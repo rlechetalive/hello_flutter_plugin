@@ -46,6 +46,6 @@ dependencies {
     //api 'com.google.firebase:firebase-messaging:17.3.3'
 
     // Urban
-    //implementation 'com.urbanairship.android:urbanairship-fcm:9.7.1'
+    implementation 'com.urbanairship.android:urbanairship-fcm:9.7.1'
     //implementation 'com.urbanairship.android:urbanairship-adm:9.7.1'
 }
