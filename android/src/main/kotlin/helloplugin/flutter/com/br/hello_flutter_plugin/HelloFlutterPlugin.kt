@@ -23,6 +23,7 @@ class HelloFlutterPlugin: MethodCallHandler {
       val len = StringUtils.length("Ricardo Rodrigues Lecheta")
       result.success("$len")
     } else {
+      //v1
       result.notImplemented()
     }
   }
