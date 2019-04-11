@@ -18,41 +18,41 @@
     <session id="-1610607958">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.0" value="4" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="5" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="dart" value="3" />
           <entry key="gitignore" value="1" />
-          <entry key="gradle" value="7" />
+          <entry key="gradle" value="9" />
           <entry key="h" value="2" />
           <entry key="java" value="1" />
           <entry key="kt" value="2" />
           <entry key="m" value="1" />
           <entry key="swift" value="1" />
-          <entry key="xml" value="3" />
-          <entry key="yaml" value="4" />
+          <entry key="xml" value="4" />
+          <entry key="yaml" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Dart" value="3" />
-          <entry key="Groovy" value="7" />
+          <entry key="Groovy" value="9" />
           <entry key="JAVA" value="1" />
           <entry key="Kotlin" value="2" />
           <entry key="ObjectiveC" value="3" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="XML" value="3" />
-          <entry key="YAML" value="4" />
+          <entry key="XML" value="4" />
+          <entry key="YAML" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dart" value="45" />
+          <entry key="dart" value="46" />
           <entry key="gradle" value="7" />
           <entry key="h" value="6" />
           <entry key="kt" value="21" />
@@ -63,7 +63,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Dart" value="45" />
+          <entry key="Dart" value="46" />
           <entry key="Groovy" value="7" />
           <entry key="Kotlin" value="21" />
           <entry key="ObjectiveC" value="12" />
@@ -79,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/lib/hello_flutter_plugin.dart">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
-              <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+              <caret line="19" column="55" lean-forward="true" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
               </folding>
@@ -272,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1555017770835</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="v3">
+      <created>1555017908689</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1555017908689</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -443,7 +450,7 @@
     <entry file="file://$PROJECT_DIR$/lib/hello_flutter_plugin.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
-          <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+          <caret line="19" column="55" lean-forward="true" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
           </folding>
