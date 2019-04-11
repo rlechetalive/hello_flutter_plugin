@@ -1,5 +1,3 @@
-package helloplugin.flutter.com.br.hello_flutter_plugin;
-
 import com.google.firebase.messaging.FirebaseMessagingService;
 import com.google.firebase.messaging.RemoteMessage;
 import com.urbanairship.push.fcm.AirshipFirebaseInstanceIdService;
