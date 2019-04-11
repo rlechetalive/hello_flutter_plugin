@@ -43,9 +43,9 @@ dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
 
     implementation 'org.apache.commons:commons-lang3:3.0'
-    api 'com.google.firebase:firebase-messaging:17.3.3'
+    //api 'com.google.firebase:firebase-messaging:17.3.3'
 
     // Urban
-    implementation 'com.urbanairship.android:urbanairship-fcm:9.7.1'
-    implementation 'com.urbanairship.android:urbanairship-adm:9.7.1'
+    //implementation 'com.urbanairship.android:urbanairship-fcm:9.7.1'
+    //implementation 'com.urbanairship.android:urbanairship-adm:9.7.1'
 }
