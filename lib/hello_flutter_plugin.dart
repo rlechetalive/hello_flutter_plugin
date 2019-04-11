@@ -15,4 +15,9 @@ class HelloFlutterPlugin {
     final String s = await _channel.invokeMethod('trim',[string]);
     return s;
   }
+
+  static Future<String> v1(String string) async {
+    final String s = await _channel.invokeMethod('v1');
+    return s;
+  }
 }
