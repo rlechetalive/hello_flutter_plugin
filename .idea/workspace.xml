@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="597dc2d8-92c6-4590-89c5-6321a2d8e83e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/kotlin/helloplugin/flutter/com/br/hello_flutter_plugin/HelloFlutterPlugin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/kotlin/helloplugin/flutter/com/br/hello_flutter_plugin/HelloFlutterPlugin.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/hello_flutter_plugin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/hello_flutter_plugin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hello_flutter_plugin.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hello_flutter_plugin.dart" afterDir="false" />
-    </list>
+    <list default="true" id="597dc2d8-92c6-4590-89c5-6321a2d8e83e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
     <ignored path="$PROJECT_DIR$/.pub/" />
@@ -23,7 +18,7 @@
     <session id="-1610607958">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="4" />
@@ -62,7 +57,7 @@
           <entry key="h" value="6" />
           <entry key="kt" value="19" />
           <entry key="m" value="6" />
-          <entry key="txt" value="9" />
+          <entry key="txt" value="11" />
           <entry key="yaml" value="2" />
         </counts>
       </usages-collector>
@@ -72,7 +67,7 @@
           <entry key="Groovy" value="7" />
           <entry key="Kotlin" value="19" />
           <entry key="ObjectiveC" value="12" />
-          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="PLAIN_TEXT" value="11" />
           <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
@@ -365,7 +360,14 @@
       <option name="project" value="LOCAL" />
       <updated>1555016992314</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="v2">
+      <created>1555017623264</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1555017623264</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -436,7 +438,8 @@
     <MESSAGE value="urban" />
     <MESSAGE value="0.0.1+1" />
     <MESSAGE value="v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="v1" />
+    <MESSAGE value="v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="v2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/flutter/packages/flutter/lib/src/services/platform_channel.dart">
