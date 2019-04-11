@@ -5,6 +5,7 @@ import io.flutter.plugin.common.MethodChannel
 import io.flutter.plugin.common.MethodChannel.MethodCallHandler
 import io.flutter.plugin.common.MethodChannel.Result
 import io.flutter.plugin.common.PluginRegistry.Registrar
+import org.apache.commons.lang3.StringUtils
 
 class HelloFlutterPlugin: MethodCallHandler {
   companion object {
@@ -18,6 +19,9 @@ class HelloFlutterPlugin: MethodCallHandler {
   override fun onMethodCall(call: MethodCall, result: Result) {
     if (call.method == "getPlatformVersion") {
       result.success("Android ${android.os.Build.VERSION.RELEASE}")
+    }else if (call.method == "trim") {
+      val len = StringUtils.length("Ricardo R Lecheta")
+      result.success("$len");
     } else {
       result.notImplemented()
     }
