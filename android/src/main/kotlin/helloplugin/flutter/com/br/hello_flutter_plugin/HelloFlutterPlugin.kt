@@ -20,8 +20,8 @@ class HelloFlutterPlugin: MethodCallHandler {
     if (call.method == "getPlatformVersion") {
       result.success("Android ${android.os.Build.VERSION.RELEASE}")
     }else if (call.method == "trim") {
-      val len = StringUtils.length("Ricardo R Lecheta")
-      result.success("$len");
+      val len = StringUtils.length("Ricardo Rodrigues Lecheta")
+      result.success("$len")
     } else {
       result.notImplemented()
     }
