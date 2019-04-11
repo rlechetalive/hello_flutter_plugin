@@ -10,4 +10,9 @@ class HelloFlutterPlugin {
     final String version = await _channel.invokeMethod('getPlatformVersion');
     return version;
   }
+
+  static Future<String> trim(String string) async {
+    final String s = await _channel.invokeMethod('trim',[string]);
+    return s;
+  }
 }
