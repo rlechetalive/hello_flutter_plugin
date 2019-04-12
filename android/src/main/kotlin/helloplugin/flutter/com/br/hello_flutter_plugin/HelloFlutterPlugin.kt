@@ -22,8 +22,8 @@ class HelloFlutterPlugin: MethodCallHandler {
     }else if (call.method == "trim") {
       val len = StringUtils.length("Ricardo Rodrigues Lecheta")
       result.success("$len")
-    }else if (call.method == "v5") {
-      result.success("v5")
+    }else if (call.method == "v6") {
+      result.success("v6")
     } else {
       //v1
       result.notImplemented()

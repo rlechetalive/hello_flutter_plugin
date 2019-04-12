@@ -16,8 +16,8 @@ class HelloFlutterPlugin {
     return s;
   }
 
-  static Future<String> v5(String string) async {
-    final String s = await _channel.invokeMethod('v5');
+  static Future<String> v6(String string) async {
+    final String s = await _channel.invokeMethod('v6');
     return s;
   }
 }

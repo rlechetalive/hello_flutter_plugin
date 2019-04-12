@@ -47,5 +47,5 @@ dependencies {
 
     // Urban
     implementation 'com.urbanairship.android:urbanairship-fcm:9.7.1'
-    //implementation 'com.urbanairship.android:urbanairship-adm:9.7.1'
+    implementation 'com.urbanairship.android:urbanairship-adm:9.7.1'
 }
